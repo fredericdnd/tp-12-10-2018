@@ -1,0 +1,19 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Sample web server with express js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "docker",
+        "node",
+        "expressjs"
+    ],
+    "author": "Frédéric Dinand <frederic.dinand.developer@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
